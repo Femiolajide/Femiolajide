@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Olajide Oluwafemi Atanda  
+<img src="https://avatars.githubusercontent.com/u/166572710?v=4" width="120" alt="Olajide Atanda"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&width=700&lines=Data+Analyst;Python+Programmer;Educator;Generative+AI+Enthusiast;Researcher+%26+Trainer)](https://git.io/typing-svg)
 
@@ -43,7 +44,7 @@ I love solving real-world problems using **Python, SQL, Power BI, Excel, SPSS, a
 
 ## 📫 Let’s Connect  
 - 📧 Email: *femiolajide1998@gmail.com*  
-- 💼 LinkedIn: [linkedin.com/in/olajide-atanda-084756239](htpps//:linkedin.com/in/olajide-atanda-084756239)  
+- 💼 LinkedIn: [linkedin.com/in/olajide-atanda-084756239](htpps://www.linkedin.com/in/olajide-atanda-084756239)  
 - 🐍 GitHub: [github.com/Femiolajide](https://github.com/Femiolajide)  
 
 ---
