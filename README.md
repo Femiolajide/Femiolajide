@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Economics & Education graduate** with strong expertise in **data analysis, programming, and teaching**.  
+I’m a passionate Economics & Education graduate with strong expertise in **data analysis, programming, and teaching**.  
 I love solving real-world problems using **Python, SQL, Power BI, Excel, SPSS, and EViews**, and I also train students and researchers in **data-driven decision making**.  
 
 ---
@@ -44,7 +44,7 @@ I love solving real-world problems using **Python, SQL, Power BI, Excel, SPSS, a
 
 ## 📫 Let’s Connect  
 - 📧 Email: *femiolajide1998@gmail.com*  
-- 💼 LinkedIn: [linkedin.com/in/olajide-atanda-084756239](htpps://linkedin.com/in/olajide-atanda-084756239)  
+- 💼 LinkedIn: [linkedin.com/in/olajide-atanda-084756239](https://linkedin.com/in/olajide-atanda-084756239)  
 - 🐍 GitHub: [github.com/Femiolajide](https://github.com/Femiolajide)  
 
 ---
