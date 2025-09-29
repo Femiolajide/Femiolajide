@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olajide Oluwafemi Atanda  
+# Hi, I'm Olajide Oluwafemi Atanda  
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&width=700&lines=Data+Analyst;Python+Programmer;Educator;Generative+AI+Enthusiast;Researcher+%26+Trainer)](https://git.io/typing-svg)
