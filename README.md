@@ -43,9 +43,9 @@ I love solving real-world problems using **Python, SQL, Power BI, Excel, SPSS, a
 ---
 
 ## 📫 Let’s Connect  
-- 📧 Email: *femiolajide1998@gmail.com*  
-- 💼 LinkedIn: [linkedin.com/in/olajide-atanda-084756239](https://linkedin.com/in/olajide-atanda-084756239)  
-- 🐍 GitHub: [github.com/Femiolajide](https://github.com/Femiolajide)  
+- Email: *femiolajide1998@gmail.com*  
+- LinkedIn: [linkedin.com/in/olajide-atanda-084756239](https://linkedin.com/in/olajide-atanda-084756239)  
+- GitHub: [github.com/Femiolajide](https://github.com/Femiolajide)  
 
 ---
 ⭐️ *“Data has a story to tell, and I love helping people hear it.”*
