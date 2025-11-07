@@ -3,7 +3,11 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&width=700&lines=Data+Analyst;Python+Programmer;Educator;Generative+AI+Enthusiast;Researcher+%26+Trainer)](https://git.io/typing-svg)
 -->
+<b>
+   
 <p> Data analyst | Python programmer | Generative AI Enthusiast | Researcher |Trainer </p>
+
+</b>
 ---
 
 ## 🚀 About Me  
