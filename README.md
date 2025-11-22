@@ -7,15 +7,14 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate Economics & Education graduate with strong expertise in **data analysis, programming, and teaching**.  
-I love solving real-world problems using **Python, SQL, Power BI, Excel, SPSS, and EViews**, and I also train students and researchers in **data-driven decision making**.  
+I’m a data professional who works at the intersection of analysis and teaching. I enjoy uncovering patterns in data, building practical solutions, and guiding learners through hands-on projects. I’m always exploring better ways to communicate ideas, solve problems, and make technology more accessible to others.  
 
 ---
 
 ## 🔧 Skills & Tools  
-- **Programming:** Python, SQL  
-- **Data Analysis & Visualisation:** Pandas, Power BI, Excel  
-- **Statistics & Research:** SPSS, EViews  
+- **Programming:** Python, SQL,R 
+- **Data Analysis & Visualisation:** Pandas, Power BI, Excel,  
+- **Statistics & Research:** SPSS, EViews, Stata
 - **Education & Training:** Teaching, Mentorship, Curriculum Design  
 
 ---
